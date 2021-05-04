@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-aspects-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-context-indexer-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-context-support-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-instrument-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-jdbc-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-jms-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-messaging-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-orm-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-oxm-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-tx-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-webmvc-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Apps/JAR files/Spring Required/spring-websocket-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
